@@ -51,10 +51,22 @@ dependencies:
   gap: ^3.0.1
 
 dev_dependencies:
-  json_serializable:
-  retrofit_generator: ^9.6.0
   flutter_test:
     sdk: flutter
+
+
+  json_serializable:
+  retrofit_generator: ^9.6.0
+  flutter_launcher_icons: ^0.14.4
+
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/doc_app_icon.png"
+  min_sdk_android: 21
+
+
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
