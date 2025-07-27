@@ -9,4 +9,6 @@ class ColorsManager {
   static const color757575 = Color(0xff757575);
   static const colorF06977 = Color(0xffF06977);
   static const colorF2F4F7 = Color(0xffF2F4F7);
+  static const colorFDFDFF = Color(0xffFDFDFF);
+  static const colorC2C2C2 = Color(0xffC2C2C2);
 }
